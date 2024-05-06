@@ -142,8 +142,6 @@ const userSimple7 = {
 let tempFoo = userSimple7.introduce
 tempFoo()
 
-
-
 console.groupEnd()
 
 
